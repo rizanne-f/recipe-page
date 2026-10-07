@@ -116,6 +116,7 @@ ul li::before {
   color: var(--Rose-800);
 }
 
+.ingredients ul li::before { color: var(--Brown-800); }
 .ingredients strong { font-weight: var(--fw-outfit-bold); }
 
 /* Instructions */
