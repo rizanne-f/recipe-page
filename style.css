@@ -20,7 +20,7 @@
   --Rose-50: hsl(330, 100%, 98%);
 
   --fs-regular: 1rem;
-  
+
   --fw-young-serif-normal: 400;
   --fw-outfit-normal: 400;
   --fw-outfit-semi-bold: 600;
@@ -39,7 +39,7 @@ body {
   font-size: --var(--fs-regular);
   line-height: 1.5;
   color: var(--Stone-600);
-  background: var(--Stone-100);
+  background: var(--White);
 }
 
 article {
@@ -156,6 +156,10 @@ td:nth-child(2) {
 }
 
 @media (min-width: 46rem) {
+  body {
+    background: var(--Stone-100);
+  }
+
   article {
     margin: 7.625rem auto;
     padding: 2.5rem;
