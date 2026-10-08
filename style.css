@@ -92,7 +92,7 @@ strong { font-weight: var(--fw-outfit-semi-bold); }
 .preparation-time h2 {
   font-weight: var(--fw-outfit-semi-bold);
   color: var(--Rose-800);
-  margin-bottom: .75rem;
+  margin-bottom: .625rem;
 }
 
 .recipe ul li:not(:last-child) { margin-bottom: .1875rem; }
