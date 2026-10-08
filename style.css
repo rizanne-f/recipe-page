@@ -90,6 +90,7 @@ strong { font-weight: var(--fw-outfit-semi-bold); }
 }
 
 .preparation-time h2 {
+  font-family: 'Outfit', sans-serif;
   font-weight: var(--fw-outfit-semi-bold);
   color: var(--Rose-800);
   margin-bottom: .625rem;
